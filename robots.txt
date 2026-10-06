@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://inabia.com/sitemap.xml
+Sitemap: https://taalhaomer321.github.io/Inabiasol/sitemap.xml
